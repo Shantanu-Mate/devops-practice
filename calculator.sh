@@ -12,3 +12,4 @@ z= 1%2
 
 Multiplication
 y= 1*2
+y= 1-2
